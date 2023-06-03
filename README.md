@@ -1,4 +1,4 @@
-# GoogleImageScraperWithImageClassifier
+# Google ImageScraper With Image Classifier
 is a Python-based project that allows you to scrape images from Google Images and classify them using an image classifier model.
 
 ## Features
