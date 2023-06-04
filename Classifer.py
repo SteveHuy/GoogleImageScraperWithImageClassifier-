@@ -9,7 +9,7 @@ def makeModel(query1:str, query2:str, model_name:str):
 
     #first find data
 
-    #findPhotos(query1, query2)
+    findPhotos(query1, query2)
     
     datadir = "data"
 
